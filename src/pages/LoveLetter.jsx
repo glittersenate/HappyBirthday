@@ -4,43 +4,43 @@ const LoveLetter = () => {
     const lettersData = [
         {
             id: 1,
-            name: "Srijan",
-            msg: "Wish you the happiest 24th birthday, Babes ❤️",
+            name: "Harshit",
+            msg: "Wish you the happiest birthday, Purvi ❤️",
         },
         {
             id: 2,
-            name: "Srijan",
-            msg: "I have so many pictures of yours bhaiya, ek pic dekh leta hu na I feel so happy ",
+            name: "Harshit",
+            msg: "Yeh Birthday wish genuinely meri trf se hai, isme kisi 3rd person ka inclusion nhi hai😂 ",
         },
         {
             id: 3,
-            name: "Srijan",
-            msg: "Even though we rarely meet aur sirf phone calls and text pe we talked but thats enough for me ",
+            name: "Harshit",
+            msg: "It feels so surreal ki itni typical man-hater 💀 mujhse itne interest se baat krti hai😂",
         },
         {
             id: 4,
-            name: "Srijan",
-            msg: "Every notification from you feels like a heartbeat whispering, I’m here, and I love you.",
+            name: "Harshit",
+            msg: "Bhyii hmne jo vo Meri zindagi hai tu start ki thi fir mai peeche reh gya, abhi tk peeche hi hu😭",
         },
         {
             id: 5,
-            name: "Srijan",
-            msg: "Our messages might travel through wires, but every word you send lands straight in my heart.",
+            name: "Harshit",
+            msg: "So, what are we binge watching nextt???👀",
         },
         {
             id: 6,
-            name: "Srijan",
-            msg: "Ever since we met, my heart knew where it wanted to stay—with you, in every soft moment, every smile, every quiet piece of forever.",
+            name: "Harshit",
+            msg: "I Pray ki apko apka 6 feet tall guy jld mile and u get your serious vala love",
         },
         {
             id: 7,
-            name: "Srijan",
-            msg: "Since our first conversation, you’ve been the quiet spark that changed my world, turning ordinary days into moments that feel beautifully meant to be. yaad hai na auto ",
+            name: "Harshit",
+            msg: "Vaise toh aap bde Man-hater bnte ho, but end me bnde chomu choose krlete ho😂(btw im still waiting for that latest Tea)",
         },
         {
             id: 8,
-            name: "Srijan",
-            msg: "I love youuu bht zyada kuch zyada hi sbse zyadaa",
+            name: "Harshit",
+            msg: "Ab bs itna hi but always remember SRK>>>>Salman🤣",
         },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
