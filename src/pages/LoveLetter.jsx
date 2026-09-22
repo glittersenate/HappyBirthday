@@ -5,17 +5,17 @@ const LoveLetter = () => {
         {
             id: 1,
             name: "Harshit",
-            msg: "Wish you the happiest birthday, Purvi ❤️",
+            msg: "Ab bs itna hi but always remember SRK>>>>Salman🤣",
         },
         {
             id: 2,
             name: "Harshit",
-            msg: "Yeh Birthday wish genuinely meri trf se hai, isme kisi 3rd person ka inclusion nhi hai😂 ",
+            msg: "Vaise toh aap bde Man-hater bnte ho, but end me bnde chomu choose krlete ho😂(btw im still waiting for that latest Tea) ",
         },
         {
             id: 3,
             name: "Harshit",
-            msg: "It feels so surreal ki itni typical man-hater 💀 mujhse itne interest se baat krti hai😂",
+            msg: "I Pray ki apko apka 6 feet tall guy jld mile and u get your serious vala love",
         },
         {
             id: 4,
@@ -30,17 +30,17 @@ const LoveLetter = () => {
         {
             id: 6,
             name: "Harshit",
-            msg: "I Pray ki apko apka 6 feet tall guy jld mile and u get your serious vala love",
+            msg: "It feels so surreal ki itni typical man-hater 💀 mujhse itne interest se baat krti hai😂",
         },
         {
             id: 7,
             name: "Harshit",
-            msg: "Vaise toh aap bde Man-hater bnte ho, but end me bnde chomu choose krlete ho😂(btw im still waiting for that latest Tea)",
+            msg: "Yeh Birthday wish genuinely meri trf se hai, isme kisi 3rd person ka inclusion nhi hai😂",
         },
         {
             id: 8,
             name: "Harshit",
-            msg: "Ab bs itna hi but always remember SRK>>>>Salman🤣",
+            msg: "Wish you the happiest birthday, Purvi ❤️",
         },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
