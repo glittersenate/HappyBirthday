@@ -29,10 +29,10 @@ const BookCanvas = ({ active, setActive }) => {
                 <div className="card1">
                     <div className="cover-text-wrapper">
                         <h4 className="username">
-                            Dear Babes<span className="underline"></span>
+                            Dear Purvi<span className="underline"></span>
                         </h4>
                         <h3 className="cover-title">
-                            Happy 24th Birthday!
+                            Happy Birthday!
                         </h3>
                         <p className="cover-subtitle">
                             A purr-fect message just for you... 💌
@@ -68,11 +68,11 @@ const BookCanvas = ({ active, setActive }) => {
 
                         {/* Swapping back to H2 to match the original CSS targeting */}
                         <div className="card2-message-text italic">
-                            <article style={{ marginBottom: '8px' }}>Happy 24th Birthday, Bhaiya ❤️</article>
-                            <article style={{ marginBottom: '10px' }}>Bhaiya, From the moment we met, something in my life shifted—like the universe quietly guiding me toward someone meant for me.Mujhe toh bht maza aata hai apse baat krke bhaiya kya btau bs aise hi khush rho aur bs chill kro </article>
-                            <article style={{ marginBottom: '10px' }}>On your birthday, I just want you to know this: I want you with me in every chapter, every storm, every sunshine, every tomorrow. No matter what comes, I’ll be on your sidealways. I’ll choose you, protect you, stand with you, and love you in ways that remind you you’re never alone. hmesha </article>
+                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Purvi ❤️</article>
+                            <article style={{ marginBottom: '10px' }}>The way we met was totally out of the script but I felt a genuine connection</article>
+                            <article style={{ marginBottom: '10px' }}>I remember when u told me ki you celebrate your birthday as a festival, So I thought ki it would be a bare minimum gesture nhi? </article>
                             <article style={{ marginBottom: '10px' }}>You’re not just another year older today… <br />
-                                you’re the reason my life feels softer, brighter, and endlessly worth living. Happy Birthday once again </article>
+                            It's a genuine blessing from my side ki you live your life to the fullest and be a great MAN-HATER in your life💯 </article>
                         </div>
 
                         <div className="card2-decoration"></div> {/* Decoration */}
@@ -91,7 +91,7 @@ const BookCanvas = ({ active, setActive }) => {
                         <div className="confetti-dots"></div>
 
                         <p className="signature">
-                            With all my love, Srijan
+                            With all my KHAUF, Harshit..
                         </p>
                     </div>
                 </div>
