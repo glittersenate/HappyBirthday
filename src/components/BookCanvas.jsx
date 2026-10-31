@@ -29,7 +29,7 @@ const BookCanvas = ({ active, setActive }) => {
                 <div className="card1">
                     <div className="cover-text-wrapper">
                         <h4 className="username">
-                            Dear Purvi<span className="underline"></span>
+                            Dear Divya<span className="underline"></span>
                         </h4>
                         <h3 className="cover-title">
                             Happy Birthday!
@@ -68,11 +68,11 @@ const BookCanvas = ({ active, setActive }) => {
 
                         {/* Swapping back to H2 to match the original CSS targeting */}
                         <div className="card2-message-text italic">
-                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Purvi ❤️</article>
+                            <article style={{ marginBottom: '8px' }}>Happy Birthday, Divya ❤️</article>
                             <article style={{ marginBottom: '10px' }}>The way we met was totally out of the script but I felt a genuine connection</article>
-                            <article style={{ marginBottom: '10px' }}>I remember when u told me ki you celebrate your birthday as a festival, So I thought ki it would be a bare minimum gesture nhi? </article>
+                            <article style={{ marginBottom: '10px' }}>Its just ki I like to celebrate my Loved ones Birthday's as a festival , So I thought ki it would be a bare minimum gesture nhi? </article>
                             <article style={{ marginBottom: '10px' }}>You’re not just another year older today… <br />
-                            It's a genuine blessing from my side ki you live your life to the fullest and be a great MAN-HATER in your life💯 </article>
+                            It's a genuine blessing from my side ki you live your life to the fullest and be a exactly as you are... the besttt </article>
                         </div>
 
                         <div className="card2-decoration"></div> {/* Decoration */}
@@ -91,7 +91,7 @@ const BookCanvas = ({ active, setActive }) => {
                         <div className="confetti-dots"></div>
 
                         <p className="signature">
-                            With all my KHAUF, Harshit..
+                            With all my Lovee, Harshit..
                         </p>
                     </div>
                 </div>
