@@ -16,7 +16,7 @@ const Home = () => {
     const [Active, SetActive] = useState(true)
 
     useEffect(() => {
-        let datetxt = "23 September";
+        let datetxt = "31 October";
         let charArrDate = datetxt.split('');
         let currentIndex = 0;
         let date__of__birth = document.querySelector(".date__of__birth span");
