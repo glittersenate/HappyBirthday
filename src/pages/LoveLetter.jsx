@@ -5,42 +5,42 @@ const LoveLetter = () => {
         {
             id: 1,
             name: "Harshit",
-            msg: "Ab bs itna hi but always remember SRK>>>>Salman🤣",
+            msg: "I love youu... Bht zyada, kuch zyada hi.. sbse jyada..",
         },
         {
             id: 2,
             name: "Harshit",
-            msg: "Vaise toh aap bde Man-hater bnte ho, but end me bnde chomu choose krlete ho😂(btw im still waiting for that latest Tea) ",
+            msg: "Bro U won't believe I am working out everyday to achieve a crazy transformation, just bcs someone promised me some crazy Rewards😂 ",
         },
         {
             id: 3,
             name: "Harshit",
-            msg: "I Pray ki apko apka 6 feet tall guy jld mile and u get your serious vala love",
+            msg: "I Pray ki U become the Happiest, irrespective of any months ending(October specially)",
         },
         {
             id: 4,
             name: "Harshit",
-            msg: "Bhyii hmne jo vo Meri zindagi hai tu start ki thi fir mai peeche reh gya, abhi tk peeche hi hu😭",
+            msg: "Toh kb chl re, Mandir(Sath me)👀",
         },
         {
             id: 5,
             name: "Harshit",
-            msg: "So, what are we binge watching nextt???👀",
+            msg: "tbh I'm not that religious, pr aapse milne ke baad I believe in God so much",
         },
         {
             id: 6,
             name: "Harshit",
-            msg: "It feels so surreal ki itni typical man-hater 💀 mujhse itne interest se baat krti hai😂",
+            msg: "Ik tumhara Oct. doesnt go that good, but see khushi ke mauke pr, Here i AM!!",
         },
         {
             id: 7,
             name: "Harshit",
-            msg: "Yeh Birthday wish genuinely meri trf se hai, isme kisi 3rd person ka inclusion nhi hai😂",
+            msg: "Yeh Birthday wish genuinely Harshit ki trf se hai, Not Veer Singhania😂",
         },
         {
             id: 8,
             name: "Harshit",
-            msg: "Wish you the happiest birthday, Purvi ❤️",
+            msg: "Wish you the happiest birthday, Divya ❤️",
         },
     ];
     const [openEnvelope, setOpenEnvelope] = useState(false);
@@ -125,7 +125,7 @@ const LoveLetter = () => {
                     <div className="munna envelope-flap text-black relative">
                         <div className='munna absolute left-1/2 top-[20%] -translate-x-1/2 flex items-center justify-center flex-col md:gap-y-2'>
                             <span className='munna font-sriracha md:text-2xl text-lg'>Open the Envelope</span>
-                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Purvi!!</span>
+                            <span className='munna font-dancingScript md:text-3xl text-xl'>Dear Divyaa!!</span>
                         </div>
                     </div>
                     <div className="munna envelope-folds">
